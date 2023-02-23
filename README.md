@@ -5,7 +5,7 @@
 * 🌱 I'm originally from Ukraine
 * 🤝 I’m looking for intership proposition for Summer 2023
 * 💬 I like to speak about sports, cars and of course programming
-* 📚 I am studying at Centennial College and in addition self-educating
+* 📚 I am self-educating IOS-Developming
 * 📫 How to reach me: 437 258 4505 Canadian or @insolento telegram
 * ❤️ I love sports, used to be professional swimmer, and I love martial arts
 
