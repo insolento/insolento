@@ -4,10 +4,14 @@
 * 🔭 I’m currently studying in Centennial college
 * 🌱 I'm originally from Ukraine
 * 🤝 I’m looking for intership proposition for Summer 2023
-* 💬 I like to speak 
+* 💬 I like to speak about sports, cars and of course programming
+* 📚 I am studying at Centennial College and in addition self-educating
 * 📫 How to reach me: 437 258 4505 Canadian or @insolento telegram
-* ❤️ I love sports, used to be professional swimmer
+* ❤️ I love sports, used to be professional swimmer, and I love martial arts
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
