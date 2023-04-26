@@ -6,7 +6,7 @@
 * 🤝 I’m looking for intership proposition for Summer 2023
 * 💬 I like to speak about sports, cars and of course programming
 * 📚 I am self-educating IOS-Developming
-* 📫 How to reach me: 437 258 4505 Canadian or @insolento telegram
+* 📫 How to reach me: 437 258 4505 Canadian, maksym.bezverkhnii@gmail.com, or @insolento telegram
 * ❤️ I love sports, used to be professional swimmer, and I love martial arts
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
