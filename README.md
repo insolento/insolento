@@ -5,7 +5,7 @@
 * 🌱 I'm originally from Ukraine
 * 💬 I like to speak about sports, cars and of course programming
 * 📚 I am self-educating in IOS-Developing
-* 📫 How to reach me: +1 437 258 4505, maksym.bezverkhnii@gmail.com, or @insolento telegram
+* 📫 How to reach me: +1 437 258 4505, maksym.bezverkhnii@gmail.com, or @insolento_ telegram
 * ❤️ I love sports, used to be professional swimmer, and I love martial arts
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
